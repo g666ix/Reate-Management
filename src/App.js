@@ -17,7 +17,7 @@ const customer = [
   'name': '고영훈 one',
   'birtday': '931015',
   'gender': '남자',
-  'job': '코린이'
+  'job': '코린이1'
 },
 {
   'id': 3,
@@ -25,7 +25,7 @@ const customer = [
   'name': '고영훈 two',
   'birtday': '941015',
   'gender': '남자',
-  'job': '코린이'
+  'job': '코린이2'
 },
 ]
 class App extends Component {
